@@ -9,7 +9,7 @@ import me.hamza.library.impl.BaseMenu;
 public class ExampleMenu extends BaseMenu {
     @Override
     public int getRows() {
-        return 0;
+        return 3;
     }
 
     @Override
