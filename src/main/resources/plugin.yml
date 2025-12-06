@@ -1,3 +1,0 @@
-name: Menu
-version: '${project.version}'
-main: me.hamza.library.MenuAPI
