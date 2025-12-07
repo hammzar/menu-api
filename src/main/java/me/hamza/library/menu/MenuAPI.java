@@ -1,8 +1,8 @@
-package me.hamza.library;
+package me.hamza.library.menu;
 
 import lombok.Getter;
-import me.hamza.library.listener.MenuListener;
-import me.hamza.library.repository.MenuRepository;
+import me.hamza.library.menu.listener.MenuListener;
+import me.hamza.library.menu.repository.MenuRepository;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**

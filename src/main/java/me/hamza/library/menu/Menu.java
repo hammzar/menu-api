@@ -1,7 +1,7 @@
-package me.hamza.library;
+package me.hamza.library.menu;
 
-import me.hamza.library.item.MenuItem;
-import me.hamza.library.repository.MenuRepository;
+import me.hamza.library.menu.item.MenuItem;
+import me.hamza.library.menu.repository.MenuRepository;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.event.inventory.ClickType;

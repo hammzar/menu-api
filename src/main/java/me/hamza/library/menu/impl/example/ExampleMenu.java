@@ -1,6 +1,6 @@
-package me.hamza.library.impl.example;
+package me.hamza.library.menu.impl.example;
 
-import me.hamza.library.impl.BaseMenu;
+import me.hamza.library.menu.impl.BaseMenu;
 
 /**
  * @author Hamza

@@ -1,8 +1,8 @@
-package me.hamza.library.item;
+package me.hamza.library.menu.item;
 
 import lombok.Getter;
 import lombok.Setter;
-import me.hamza.library.item.context.ClickContext;
+import me.hamza.library.menu.item.context.ClickContext;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemFlag;
 import org.bukkit.inventory.ItemStack;

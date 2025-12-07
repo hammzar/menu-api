@@ -1,7 +1,7 @@
-package me.hamza.library.item.context;
+package me.hamza.library.menu.item.context;
 
 import lombok.Getter;
-import me.hamza.library.Menu;
+import me.hamza.library.menu.Menu;
 import org.bukkit.entity.Player;
 import org.bukkit.event.inventory.ClickType;
 

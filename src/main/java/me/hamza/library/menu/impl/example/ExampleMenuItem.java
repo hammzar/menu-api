@@ -1,7 +1,7 @@
-package me.hamza.library.impl.example;
+package me.hamza.library.menu.impl.example;
 
-import me.hamza.library.item.MenuItem;
-import me.hamza.library.item.context.ClickContext;
+import me.hamza.library.menu.item.MenuItem;
+import me.hamza.library.menu.item.context.ClickContext;
 import org.bukkit.Material;
 
 import java.util.Collections;

@@ -1,7 +1,7 @@
-package me.hamza.library.repository;
+package me.hamza.library.menu.repository;
 
 import lombok.Getter;
-import me.hamza.library.Menu;
+import me.hamza.library.menu.Menu;
 
 import java.util.Map;
 import java.util.UUID;

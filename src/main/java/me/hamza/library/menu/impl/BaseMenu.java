@@ -1,9 +1,9 @@
-package me.hamza.library.impl;
+package me.hamza.library.menu.impl;
 
 import lombok.Getter;
-import me.hamza.library.Menu;
-import me.hamza.library.item.MenuItem;
-import me.hamza.library.item.context.ClickContext;
+import me.hamza.library.menu.Menu;
+import me.hamza.library.menu.item.MenuItem;
+import me.hamza.library.menu.item.context.ClickContext;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

@@ -1,8 +1,8 @@
-package me.hamza.library.listener;
+package me.hamza.library.menu.listener;
 
-import me.hamza.library.Menu;
-import me.hamza.library.MenuAPI;
-import me.hamza.library.repository.MenuRepository;
+import me.hamza.library.menu.Menu;
+import me.hamza.library.menu.MenuAPI;
+import me.hamza.library.menu.repository.MenuRepository;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
