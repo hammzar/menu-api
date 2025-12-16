@@ -1,7 +1,5 @@
 package me.hamza.library.menu.item;
 
-import lombok.Getter;
-import lombok.Setter;
 import me.hamza.library.menu.item.context.ClickContext;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemFlag;
@@ -15,8 +13,6 @@ import java.util.stream.Collectors;
  * @author Hamza
  * @since 06/12/2025
  */
-@Getter
-@Setter
 public abstract class MenuItem {
     private final String title;
     private final Material material;
